@@ -4,9 +4,9 @@ A simple static website hosted on an **Amazon EC2** instance using **Apache HTTP
 
 ## 🌐 Live Demo
 
-**Website:** http://13.50.241.76
+**Website:** http://13.50.241.76 (served from the EC2 instance while it was running; not reachable as of 7 Oct 2026, see the screenshots at the end of this README)
 
-**GitHub Repository:** https://github.com/NishitSK/cloud_scem_misision
+**GitHub Repository:** https://github.com/NishitSK/cloud-computing-lab/tree/main/ec2-apache-website
 
 ---
 

@@ -37,3 +37,6 @@ The core implementation uses:
 Messaging.SingleEmailMessage
 Messaging.EmailFileAttachment
 Messaging.sendEmail()
+```
+
+The full class is in [apex.cls](apex.cls).
