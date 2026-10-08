@@ -1,0 +1,9 @@
+# Keys and credentials
+*.pem
+.env
+
+# Build output
+*.class
+*.jar
+__pycache__/
+a.out
